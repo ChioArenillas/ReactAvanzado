@@ -1,7 +1,7 @@
 import FocusComponent from '@/componentes/FocusComponent'
-import HookComponent from '@/componentes/HookComponent'
+import HookComponent from '@/hooks/HookComponent'
 import NuevoComponente from '@/componentes/NuevoComponente'
-import UseCallbackComponent from '@/componentes/UseCallbackComponent'
+import UseCallbackComponent from '@/hooks/UseCallbackComponent'
 import React from 'react'
 
 export default function Home() {
